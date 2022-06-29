@@ -1,5 +1,5 @@
 {
-    "name": "vendor/devcomposer",
+    "name": "vendor/dev-composer",
     "description": "An example project to test dependency analysis tools with different dependencies specified in composer composer.json.",
     "type": "project",
     "require": {
