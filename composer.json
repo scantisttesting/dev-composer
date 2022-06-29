@@ -1,5 +1,5 @@
 {
-    "name": "vendor/example-php",
+    "name": "vendor/devcomposer",
     "description": "An example project to test dependency analysis tools with different dependencies specified in composer composer.json.",
     "type": "project",
     "require": {
